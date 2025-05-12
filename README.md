@@ -6,6 +6,8 @@ A clean and responsive profile card that displays social media links. This proje
 
 ![Profile Preview](./screenshot.png)
 
+➡️ Live site: https://dzik0.github.io/social-links-profile/
+
 ## 🌟 Features
 
 - Responsive design for mobile and desktop
